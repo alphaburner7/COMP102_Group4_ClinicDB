@@ -5,7 +5,7 @@ This project implements a **Public Health Clinic Records System** using MySQL (X
 It is aligned with **SDG 3: Good Health and Well-being** and demonstrates database design, implementation, and management skills.
 
 ## 👥 Group Members
-- Hassan  
+- Hassan  Sankoh
 - Jarieu  
 - Adam  
 
