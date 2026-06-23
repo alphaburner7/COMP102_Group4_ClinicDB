@@ -6,8 +6,8 @@ It is aligned with **SDG 3: Good Health and Well-being** and demonstrates databa
 
 ## 👥 Group Members
 - Hassan  Sankoh
-- Jarieu  
-- Adam  
+- Jarieu  Jalloh 
+- Adam  Sankoh 
 
 ## 🧩 Features
 - Refined Physical Data Model (Patients, Doctors, Appointments, Treatments, Payments)  
